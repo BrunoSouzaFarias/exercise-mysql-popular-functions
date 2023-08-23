@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "10 - Exiba a média salarial e o número de funcionários de todos os departamentos com mais de dez funcionários",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    }
+  ]
+}
